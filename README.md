@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 Hey there, the name's Ghostlium! I try to be a person who can help out others.
 
-**Working On/Learning**: HTML/CSS/JS Web Development, Grinding out <a href="https://onemonth.com/">OneMonth</a> courses
-**Languages I'm Confident In**: Java, Javascript, Python, Scratch (lmao)
-**Languages I'm Familiar With**: HTML, CSS
+**Working On/Learning**: HTML/CSS/JS Web Development, Grinding out <a href="https://onemonth.com/">OneMonth</a> courses<br>
+**Languages I'm Confident In**: Java, Javascript, Python, Scratch (lmao)<br>
+**Languages I'm Familiar With**: HTML, CSS<br>
 
 If you need to contact me for any reason, please do so through Discord (Ghostlium#0711)!
 
