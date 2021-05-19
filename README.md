@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 Hey there, the name's Ghostlium! I try to be a person who can help out others.
 
 **Working On/Learning**: HTML/CSS/JS Web Development, Grinding out <a href="https://onemonth.com/">OneMonth</a> courses<br>
-**Current Projects**: <a href="https://sites.google.com/view/travelermains/">Traveler Mains Website</a>, Play Together Datamining<br>
+**Current Projects**: <a href="https://sites.google.com/view/travelermains/">Traveler Mains Website</a>, Play Together Datamining, Legends of Chima Datamining<br>
+**Projects To Be Started**: PK XD Datamining<br>
 **Languages I'm Confident In**: Java, Javascript, Python, Scratch (lmao)<br>
 **Languages I'm Familiar With**: HTML, CSS<br>
 
