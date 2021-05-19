@@ -21,7 +21,7 @@ Hey there, the name's Ghostlium! I try to be a person who can help out others.
 **Languages I'm Confident In**: Java, Javascript, Python, Scratch (lmao)<br>
 **Languages I'm Familiar With**: HTML, CSS<br>
 
-If you need to contact me for any reason, please do so through Discord (Ghostlium#0711)!
+If you need to contact me for any reason, please do so through Discord (Ghostlium#4145)!
 
 ## My Stats
 
