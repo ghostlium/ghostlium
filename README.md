@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, the name's Ghostlium! I try to be a person who can help out others.
+Hey there, the name's Benjiro! I try to be a person who can help out others.
 
-**Working On/Learning**: HTML/CSS/JS Web Development, Grinding out <a href="https://onemonth.com/">OneMonth</a> courses<br>
-**Current Projects**: <a href="https://sites.google.com/view/travelermains/">Traveler Mains Website</a>, Play Together Datamining (Unity), Legends of Chima Datamining (Unity, SWF, PS Vita), Blades of Brim Datamining (Unity, waiting for a new update to pop up), Candies 'n Curses Datamining (Unity)<br>
-**Projects To Be Started**: PK XD Datamining(Unity)<br>
-**Languages I'm Confident In**: Java, Javascript, Python, Scratch (lmao)<br>
-**Languages I'm Familiar With**: HTML, CSS<br>
-**Skills I've Acquired**: Datamining, Speedrunning, Musical (Piano/Guitar) Skills, Dimensional Analysis, Discord Moderation, StackOverflowing<br> 
+**Working On/Learning**: HTML/CSS/JS Web Development<br>
+**Current Projects**: Blades of Brim Datamining (parsing data)<br>
+**Projects To Be Started**: PK XD Datamining <br>
+**Projects on Hiatus**: Play Together Datamining (lost access to the Twitter), Legends of Chima Datamining (lost interest)
+**Canceled Projects** <a href="https://sites.google.com/view/travelermains/">Traveler Mains Website</a> (lack of activity, unpopular character), Candies 'n Curses Datamining (out of respect for the developers), @PTDatamines (Play Together datamining Twitter, see above) <br>
+**Languages I'm Confident In**: Scratch (4 years), JavaScript (3 years), Java (2 years), Python (1 year), HTML/CSS/JS (1 year)<br>
+**Languages I'm Familiar With**: n/a<br>
+**Skills I've Acquired**: Datamining, Speedrunning, Musical (Piano/Guitar) Skills, Dimensional Analysis, Discord Moderation, StackOverflowing, HTML/CSS/JS Web Development<br> 
 
 If you need to contact me for any reason, please do so through Discord (Ghostlium#4145)!
 
